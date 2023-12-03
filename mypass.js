@@ -1,0 +1,1 @@
+const mypass = 'aaöndifnadfn';
