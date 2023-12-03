@@ -15,4 +15,4 @@ const pool = new Pool(config);
 
 export default pool;
 
-password = "password"
+password = "Pa$$word!"
