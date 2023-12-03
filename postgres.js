@@ -14,3 +14,5 @@ const config = {
 const pool = new Pool(config);
 
 export default pool;
+
+password = "password"
