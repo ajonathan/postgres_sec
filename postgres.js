@@ -7,7 +7,7 @@ const config = {
     database: 'mydb',
     host: 'localhost',
     user: fefew,
-    password: jfasdfioöoj,
+    password: "jfasdfioöoj",
     port: 5432,
 }
 
