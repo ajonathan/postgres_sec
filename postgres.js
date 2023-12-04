@@ -5,10 +5,10 @@ const jfasdfioöoj = "aåisdfhnöihåinmifeiaifheiöknafkdsjvklahöjmoä932r32"
 
 const config = {
     database: 'mydb',
-    host: 'localhost',
+    host: 'server01.microsoft.com',
     user: fefew,
     password: jfasdfioöoj,
-    port: 5432,
+    port: 5432
 }
 
 const pool = new Pool(config);
